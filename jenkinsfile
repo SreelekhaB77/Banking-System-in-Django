@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/MohamamdAzam/Banking-System-in-Django.git'
+                git 'https://github.com/SreelekhaB77/Banking-System-in-Django.git'
             }
         }
         
